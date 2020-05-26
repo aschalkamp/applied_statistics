@@ -1,6 +1,6 @@
 # applied_statistics
 
-This repository contains several methods of applied statistics such as generlaized linear models, PCA, and ICA. It also covers some aspects of bayesian analysis and compares it to frequentistic analysis.
+This repository contains several methods of applied statistics such as generlaized linear models, PCA, and ICA.
 
 Those methods are applied to some freely available datasets.
 
